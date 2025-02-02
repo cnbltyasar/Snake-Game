@@ -23,3 +23,6 @@ cd snake-game
 Open the index.html File:
 
 You can open the index.html file directly in your browser. Alternatively, you can serve the project using a local web server.
+
+Game Image:
+![image](https://github.com/user-attachments/assets/6b9bd13e-fdaf-41de-b8f2-0e7d9cd9294a)
