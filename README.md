@@ -14,11 +14,11 @@ A modern web browser (e.g., Chrome, Firefox, Edge, Safari).
 Installation
 Clone the Repository:
 
-Kopyala
-git clone https://github.com/yourusername/snake-game.git
+COPY--> 
+git clone [https://github.com/yourusername/snake-game.git](https://github.com/cnbltyasar/Snake-Game/tree/main) 
 Navigate to the Project Directory:
 
-Kopyala
+COPY--> 
 cd snake-game
 Open the index.html File:
 
